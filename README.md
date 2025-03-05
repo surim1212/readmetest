@@ -29,4 +29,7 @@ html 코드 작성
 [simple icons](http://simpleicons.org/)  
 [Shields.io](https://shields.io/)  
 ![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)
-<img=src="https://img.shields.io/badge/surimkim-FFCA28?logo=aircanada&logocolor=000000"/>  
+<img=src="https://img.shields.io/badge/surimkim-FFCA28?style=flat-square&logo=aircanada&logocolor=000000"/>  
+
+![표시문자](url)
+![git](https://mml.pstatic.net/www/mobile/edit/20250225_1095/upload_1740468296392FadN4.gif)
