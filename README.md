@@ -33,3 +33,9 @@ html 코드 작성
 
 ![표시문자](url)
 ![git](https://mml.pstatic.net/www/mobile/edit/20250225_1095/upload_1740468296392FadN4.gif)
+
+*강조*
+_강조_
+**강조**
+__강조__
+~~강조~~
