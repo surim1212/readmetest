@@ -28,5 +28,5 @@ html 코드 작성
 [표시내용](url)  
 [simple icons](http://simpleicons.org/)  
 [Shields.io](https://shields.io/)  
-![Static Badge](https://img.shields.io/badge/:badgeContent)  
-<img alt="Static Badge" src="https://img.shields.io/badge/:build-passing-brightgreen">  
+![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)
+<img=src="https://img.shields.io/badge/surimkim-FFCA28?logo=aircanada&logocolor=000000"/>  
